@@ -1,0 +1,1 @@
+{"main":"./backend/index.js","start":"cd ./backend && node index.js","dependencies":{"react-icons":"^4.12.0","react-native-svg":"^14.1.0","react-router-dom":"^6.22.0"}}
